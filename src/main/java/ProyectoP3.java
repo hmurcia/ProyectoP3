@@ -4,5 +4,7 @@ public class ProyectoP3 {
 
     public static void main(String[] args) {
         Consola.print("Hello World!", 10, 20);
+        Consola.print("Hello World!", 10, 22);
+        Consola.print("Hello World!", 10, 24);
     }
 }
